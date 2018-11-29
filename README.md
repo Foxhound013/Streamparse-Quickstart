@@ -1,5 +1,5 @@
 # Streamparse-Quickstart
-This repository is intended to serve as an Apache Storm streamparse quickstart guide. Many of the "tutorials" currently out there do not address many specifics and the streamparse quickstart may leave someone wondering how everything fits together. This repository is intended to help solve that. This repository will include a description of how to get set up and going with a local development environment (this guide reflects my experiences setting things up on a mac running High Sierra) and a detailed explanation of the files in the streamparse quickstart guide.
+This repository is intended to serve as an Apache Storm streamparse quickstart guide and resource repository. Many of the "tutorials" currently out there do not address many specifics and the streamparse quickstart may leave someone wondering how everything fits together. This repository is intended to help solve that. This repository will include a description of how to get set up and going with a local development environment (this guide reflects my experiences setting things up on a mac running High Sierra) and a detailed explanation of the files in the streamparse quickstart guide.
 
 Some useful resources for reference are listed below.
 
