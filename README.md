@@ -24,7 +24,7 @@ To get started using streamparse, you'll need to get your environment set up.
      5. You'll need to make sure that /usr/local/bin is in your path, you can check by running echo $PATH
         * If it isn't, edit your bash profile as follows
             
-            PATH="/usr/local/bin/"
+            PATH="/usr/local/bin:${PATH}"
             
             export PATH
      6. While inside of /usr/local/bin, run *lein* to get all of the necessary extras installed
@@ -37,7 +37,7 @@ To get started using streamparse, you'll need to get your environment set up.
      4. Just like lein, storm needs to be added to your PATH.
         * edit your bash profile to include the following
         
-          PATH="/usr/local/bin/apache-storm-1.2.2/bin"
+          PATH="/usr/local/bin/apache-storm-1.2.2/bin:${PATH}"
           
           export PATH
    
