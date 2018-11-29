@@ -42,5 +42,21 @@ To get started using streamparse, you'll need to get your environment set up.
           export PATH
    
    4. We can finally install streamparse! *I'm assuming you already have python installed, if not go get it installed from [python.org](python.org). Run *pip install streamparse* to get it set up.
-      * Note: If you run into an issue with thriftpy building, you may need to run *xcode-select --install* on mac. This resolved the issue for me.
-      
+       * Note: If you run into an issue with thriftpy building, you may need to run *xcode-select --install* on mac. This resolved the issue for me.
+       
+   5. Now that everything is installed, you can navigate to wherever you would like your storm project to be and run *sparse quickstart wordcount*, streamparse will then set up the quickstart project for you.
+      * Before you can run the quickstart example, you'll need to update the project.clj file in the example directory. Inside of this file you need to update the storm version to the version that you are using.
+   
+   6. cd into the wordcount directory and run the command *sparse run*. The local dev environment for starm will start up shortly and begin running the example.
+   
+   7. Celebrate your new found streaming powers! :squirrel:
+   
+## What's next?
+Take a look at the Spout, Bolt, and Topology files in this repository. My version of these files are heavily commented to help even the newest of people to understand what is happening in Storm.
+
+## Updates to come?
+As I learn more about Storm and Streamparse myself, I'll continually update this repository. Some things to come . . .
+
+  * A flowchart of how the peices fit together, specifically in the context of the wordcount example.
+  * Instructions for moving from the local dev environment to production.
+  * A more intensive example utilizing weather data from the High-Resolution Rapid Refresh Weather Model (HRRR)
