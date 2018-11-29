@@ -4,7 +4,7 @@ This repository is intended to serve as an Apache Storm streamparse quickstart g
 Some useful resources for reference are listed below.
 
   * [Github repository for Apache Storm](https://github.com/apache/storm)
-  * [Github for Steamparse](https://github.com/Parsely/streamparse)
+  * [Github repository for Steamparse](https://github.com/Parsely/streamparse)
   * [Documentation for streamparse](https://streamparse.readthedocs.io/en/stable/)  
     * [In Depth streamparse documentation](https://media.readthedocs.org/pdf/streamparse/stable/streamparse.pdf)
 
