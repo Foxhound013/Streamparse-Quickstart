@@ -1,0 +1,12 @@
+wordcount/_build/wordcount-0.0.1-SNAPSHOT-standalone.jar
+wordcount/_build/classes/META-INF/maven/wordcount/wordcount/pom.properties
+wordcount/_build/wordcount-0.0.1-SNAPSHOT.jar
+wordcount/_resources/resources/bolts/__pycache__/__init__.cpython-36.pyc
+wordcount/_resources/resources/bolts/__pycache__/wordcount.cpython-36.pyc
+wordcount/_resources/resources/bolts/wordcount.py
+wordcount/_resources/resources/spouts/__pycache__/__init__.cpython-36.pyc
+wordcount/_resources/resources/spouts/__pycache__/words.cpython-36.pyc
+wordcount/_resources/resources/spouts/words.py
+wordcount/src/bolts/__pycache__/wordcount.cpython-36.pyc
+wordcount/src/spouts/__pycache__/words.cpython-36.pyc
+wordcount/topologies/__pycache__/wordcount.cpython-36.pyc
