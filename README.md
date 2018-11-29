@@ -17,7 +17,7 @@ To get started using streamparse, you'll need to get your environment set up.
      
   2. Install leiningen, an extremely useful guide to this can be found [here](http://www.wisdomofjim.com/blog/setting-up-leiningen-on-mac-os)   
      * In case that link ever dies, the steps are reproduced below.
-     1. Verify if you have jave with *java -version* (We completed this step already)
+     1. Verify if you have java with *java -version* (We completed this step already)
      2. Go to your /usr/local/bin directory *cd /usr/local/bin*
      3. Get the Lein file by running *sudo curl -O https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein*
      4. Allow the Lein file to be executed by running *sudo chmod a+x /usr/loacl/bin/lein*
