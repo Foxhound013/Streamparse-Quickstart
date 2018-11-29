@@ -22,7 +22,7 @@ To get started using streamparse, you'll need to get your environment set up.
      3. Get the Lein file by running *sudo curl -O https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein*
      4. Allow the Lein file to be executed by running *sudo chmod a+x /usr/loacl/bin/lein*
      5. You'll need to make sure that /usr/local/bin is in your path, you can check by running echo $PATH
-        * If it isn't, edit your bash profile as follows
+        * If it isn't, edit your bash profile as follows, run the command *vi ~/.bash_profile* and add the following lines. It would be good to add a comment above your addition for future reference.
             
             PATH="/usr/local/bin:${PATH}"
             
